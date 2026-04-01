@@ -1,4 +1,4 @@
 # Branding
-The branding for Bunnbuns &amp; Ben LLC
+The branding for Bunnbuns
 
-![Banner](https://github.com/BunnbunsAndBen/Branding/blob/master/BB_Logo_and_text.png?raw=true)
+![Banner](https://github.com/Bunnbuns/Branding/blob/master/BB_Logo_and_text.png?raw=true)
